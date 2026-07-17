@@ -52,7 +52,7 @@ Interactive Power BI dashboard analyzing the relationship between teens' social 
 * Data Visualization
 * Dashboard Design
 
-🔗 Repository: *(Add repository link)*
+🔗 Repository: *(https://github.com/bamidele-yetunde/Teens-Mental-Health-Vs-Social-Media)*
 
 ---
 
