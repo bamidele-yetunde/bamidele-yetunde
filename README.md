@@ -1,8 +1,8 @@
 # Hi, I'm Bamidele Yetunde 👋
 
-## Data Analyst | Power BI | SQL | Excel | Data Storytelling
+## Data Analyst | Power BI | SQL | Excel | Tableau | Data Storytelling
 
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights that support smarter decision making. I enjoy cleaning data, building interactive dashboards, uncovering trends, and communicating findings through compelling visualizations.
+I am a Data Analyst passionate about transforming raw data into meaningful insights that support smarter decision making. I enjoy cleaning data, building interactive dashboards, uncovering trends, and communicating findings through compelling visualizations.
 
 I am continuously improving my skills by working on real world projects and sharing my learning journey publicly.
 
