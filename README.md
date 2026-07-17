@@ -55,6 +55,24 @@ Interactive Power BI dashboard analyzing the relationship between teens' social 
 🔗 Repository: *(https://github.com/bamidele-yetunde/Teens-Mental-Health-Vs-Social-Media)*
 
 ---
+### 📊 Global Superstore Analysis Dashboard (Microsoft Excel)
+
+This project is an interactive sales dashboard built entirely in Microsoft Excel using the Global Superstore dataset. The objective was to transform raw sales data into an interactive reporting solution that helps users analyze sales performance, customer behavior, product performance, profitability, and shipping costs.
+
+The dashboard enables decision makers to filter data dynamically and identify key business trends through PivotTables, PivotCharts, slicers, and KPI cards.
+
+
+**Skills Used**
+* Microsoft Excel
+* PivotTables
+* PivotCharts
+* Slicers
+* Data Cleaning
+* Data Analysis
+* Data Visualization
+
+🔗 Repository: *(https://github.com/bamidele-yetunde/Global-Superstore-Dashboard/blob/main/README.md)*
+
 
 Current projects include:
 
