@@ -87,7 +87,7 @@ This project is an interactive Power BI dashboard developed to analyze sales per
 * Data Visualization
 
 
-🔗 Repository: *(https://github.com/bamidele-yetunde/Sales-Performance-Dashboard-Power-bi/blob/main/README.mdhttps://github.com/bamidele-yetunde/Sales-Performance-Dashboard-Power-bi/blob/main/README.md)*
+🔗 Repository: *(https://github.com/bamidele-yetunde/Sales-Performance-Dashboard-Power-bi)*
 
 
 
