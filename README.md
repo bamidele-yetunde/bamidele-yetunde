@@ -74,9 +74,25 @@ The dashboard enables decision makers to filter data dynamically and identify ke
 🔗 Repository: *(https://github.com/bamidele-yetunde/Global-Superstore-Dashboard/blob/main/README.md)*
 
 
+### 📊 Sales Performance Dashboard | Power BI
+
+This project is an interactive Power BI dashboard developed to analyze sales performance, product trends,customer behavior and returns performance across different regions and cities. The dashboard enables stakeholders to monitor key business metrics, identify top performing products and customers, and make informed business decisions through data visualization.
+
+
+**Skills Used**
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
+* Data Visualization
+
+
+🔗 Repository: *(https://github.com/bamidele-yetunde/Sales-Performance-Dashboard-Power-bi/blob/main/README.mdhttps://github.com/bamidele-yetunde/Sales-Performance-Dashboard-Power-bi/blob/main/README.md)*
+
+
+
 Current projects include:
 
-* Sales Dashboard
 * HR Analytics Dashboard
 * Financial Dashboard
 * Customer Segmentation Analysis
