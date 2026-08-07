@@ -91,23 +91,23 @@ This project is an interactive Power BI dashboard developed to analyze sales per
 
 
 
-Current projects include:
+### 🏥 Healthcare Data Analysis
 
-* HR Analytics Dashboard
-* Financial Dashboard
-* Customer Segmentation Analysis
-* SQL Data Exploration Projects
+Healthcare data cleaning and exploratory analysis project using SQL and Excel to improve data quality, standardize records, and uncover meaningful trends.
 
----
+**Skills Used**
+* SQL
+* Excel
+* Data Cleaning
+* Data Transformation
+* Exploratory Data Analysis
+* Data Validation
 
-## What I'm Currently Learning
+**Key Outcome**
 
-* Advanced DAX
-* SQL Optimization
-* Power BI Service
-* PL 300 Microsoft Power BI Data Analyst Certification
-* Business Intelligence Best Practices
+Improved dataset reliability and usability, enabling more accurate analysis and data driven decision making.
 
+🔗 Repository: *(https://github.com/bamidele-yetunde/HEALTHCARE-DATA-ANALYSIS-SQL-EXCEL)*
 ---
 
 ## Connect With Me
