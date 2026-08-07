@@ -32,6 +32,7 @@ I am continuously improving my skills by working on real world projects and shar
 ### Tools
 
 * Power BI
+* Python
 * SQL
 * Microsoft Excel
 * Power Query
