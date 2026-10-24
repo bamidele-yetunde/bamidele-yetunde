@@ -1,127 +1,46 @@
-# Hi, I'm Bamidele Yetunde 👋
+# Hi, I'm Bamidele (Ideraoluwa) Yetunde 👋
 
-## Data Analyst | Power BI | SQL | Excel | Tableau | Python| Data Storytelling
+**Data Analyst** · SQL (MySQL) · Power BI (DAX, Power Query, data modelling) · Excel · Python (pandas)
 
-I am a Data Analyst passionate about transforming raw data into meaningful insights that support smarter decision making. I enjoy cleaning data, building interactive dashboards, uncovering trends, and communicating findings through compelling visualizations.
+I turn messy data into clear decisions: clean it, model it, and explain what the numbers mean for the business.
+Based in Lagos, Nigeria (GMT+1) · **Open to remote Data Analyst / BI Analyst roles**
 
-I am continuously improving my skills by working on real world projects and sharing my learning journey publicly.
-
----
-
-## About Me
-
-* 📊 Passionate about data analytics and business intelligence
-* 📈 Skilled in transforming data into actionable insights
-* 🌱 Currently learning advanced Power BI, SQL, and data analytics techniques
-* 🎯 Working toward becoming a professional Data Analyst
-* 💡 Interested in dashboard development, reporting, and data storytelling
+[LinkedIn](https://linkedin.com/in/bamidele-yetunde) · ideraoluwaabiona@gmail.com
 
 ---
 
-## Technical Skills
+## ⭐ Featured project
 
-### Data Analytics
-* Data Cleaning
-* Data Transformation
-* Data Visualization
-* Data Analysis
-* Dashboard Design
-* KPI Development
-* Data Storytelling
+### [Why 97% of Olist customers never come back, and what actually drives 1-star reviews](https://github.com/bamidele-yetunde/olist-retention-delivery-analysis)
+`MySQL` · `Python (pandas)` · `Power BI` · `DAX` · `Excel`
 
-### Tools
+End-to-end analysis of **96,203 real e-commerce orders**, from raw data to a costed business recommendation.
 
-* Power BI
-* Python
-* SQL
-* Microsoft Excel
-* Power Query
-* DAX
+- Late deliveries are **6.8% of orders but cause 37% of all 1-star reviews**
+- **12 seller-to-customer routes produce 69% of late orders**; in 72% of them the seller shipped on time
+- A 7-day buffer on the 12 worst routes would have rescued **40% of late orders at zero logistics cost**
+- 5-page Power BI dashboard on a star schema with **52 DAX measures**; every metric defined once in a MySQL view and reproduced in pandas
 
 ---
 
-## Featured Projects
+## 📂 More projects
 
-### 📊 Social Media Usage & Academic Performance Dashboard
-
-Interactive Power BI dashboard analyzing the relationship between teens' social media usage, academic performance, sleep patterns, stress, anxiety, and addiction.
-
-**Skills Used**
-* Power BI
-* Power Query
-* DAX
-* Data Visualization
-* Dashboard Design
-
-🔗 Repository: *(https://github.com/bamidele-yetunde/Teens-Mental-Health-Vs-Social-Media)*
-
----
-### 📊 Global Superstore Analysis Dashboard (Microsoft Excel)
-
-This project is an interactive sales dashboard built entirely in Microsoft Excel using the Global Superstore dataset. The objective was to transform raw sales data into an interactive reporting solution that helps users analyze sales performance, customer behavior, product performance, profitability, and shipping costs.
-
-The dashboard enables decision makers to filter data dynamically and identify key business trends through PivotTables, PivotCharts, slicers, and KPI cards.
-
-
-**Skills Used**
-* Microsoft Excel
-* PivotTables
-* PivotCharts
-* Slicers
-* Data Cleaning
-* Data Analysis
-* Data Visualization
-
-🔗 Repository: *(https://github.com/bamidele-yetunde/Global-Superstore-Dashboard/blob/main/README.md)*
-
-
-### 📊 Sales Performance Dashboard | Power BI
-
-This project is an interactive Power BI dashboard developed to analyze sales performance, product trends,customer behavior and returns performance across different regions and cities. The dashboard enables stakeholders to monitor key business metrics, identify top performing products and customers, and make informed business decisions through data visualization.
-
-
-**Skills Used**
-* Power BI
-* Power Query
-* DAX
-* Data Modeling
-* Data Visualization
-
-
-🔗 Repository: *(https://github.com/bamidele-yetunde/Sales-Performance-Dashboard-Power-bi)*
-
-
-
-### 🏥 Healthcare Data Analysis
-
-Healthcare data cleaning and exploratory analysis project using SQL and Excel to improve data quality, standardize records, and uncover meaningful trends.
-
-**Skills Used**
-* SQL
-* Excel
-* Data Cleaning
-* Data Transformation
-* Exploratory Data Analysis
-* Data Validation
-
-**Key Outcome**
-
-Improved dataset reliability and usability, enabling more accurate analysis and data driven decision making.
-
-🔗 Repository: *(https://github.com/bamidele-yetunde/HEALTHCARE-DATA-ANALYSIS-SQL-EXCEL)*
----
-
-## Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/bamidele-yetunde
-* 🐙 GitHub: https://github.com/bamidele-yetunde
-* 📧 Email: ideraoluwaabiona@gmail.com
+| Project | Tools | What it shows |
+|---|---|---|
+| [Customer Segmentation & Retention](https://github.com/bamidele-yetunde/Ecommerce-Customer-Analysis) | Python (pandas, NumPy) | RFM segmentation and cohort retention on 50,000+ transactions (simulated data): Champions (13% of customers) drive 42% of revenue |
+| [Sales Performance Dashboard](https://github.com/bamidele-yetunde/Sales-Performance-Dashboard-Power-bi) | Power BI, Power Query, DAX | 20,000+ retail records modelled into revenue, margin and return-rate KPIs |
+| [Customer Order Analysis](https://github.com/bamidele-yetunde/Customer-Order-Analysis-SQL) | SQL | Relational database design, joins and customer segmentation on 500 orders |
+| [Healthcare Data Cleaning](https://github.com/bamidele-yetunde/HEALTHCARE-DATA-ANALYSIS-SQL-EXCEL) | SQL, Excel | Cleaned 1,245 hospital records (44 duplicates removed) into 1,201 analysis-ready rows |
+| [Global Superstore Dashboard](https://github.com/bamidele-yetunde/Global-Superstore-Dashboard) | Excel | Interactive dashboard tracking $12.6M in sales with pivot tables and slicers |
+| [Teen Mental Health vs Social Media](https://github.com/bamidele-yetunde/Teens-Mental-Health-Vs-Social-Media) | Power BI, DAX | Survey data on social media use, sleep, stress and academic performance |
 
 ---
 
-## My Goal
+## 🛠️ Skills
 
-My goal is to build impactful data solutions that help organizations make informed decisions through data driven insights. I believe every dataset has a story, and my role is to uncover and communicate that story effectively.
+- **SQL (MySQL):** joins, aggregations, views, relational design, indexing, data quality checks
+- **Power BI:** data modelling (star schema), DAX, Power Query, dashboard design
+- **Excel:** pivot tables, XLOOKUP / INDEX-MATCH, Power Query, what-if models
+- **Python:** pandas, NumPy for cleaning, EDA, segmentation and retention analysis
 
-Thanks for visiting my profile!
-
+Former **Data Analysis Instructor** at SQI College of ICT (trained 30+ learners), so I explain data clearly to non-technical teams.
