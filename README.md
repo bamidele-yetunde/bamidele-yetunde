@@ -9,7 +9,19 @@ Based in Lagos, Nigeria (GMT+1) · **Open to remote Data Analyst / BI Analyst ro
 
 ---
 
-## ⭐ Featured project
+## ⭐ Featured projects
+
+### [Why 37% of hotel bookings never arrive, and what it's worth fixing](https://github.com/bamidele-yetunde/Hotel-Cancellations-Analysis)
+`MySQL` · `Python (pandas, NumPy)` · `Power BI` · `Power Query` · `DAX` · `Excel`
+
+[![Hotel cancellations dashboard](https://github.com/bamidele-yetunde/Hotel-Cancellations-Analysis/raw/main/page1_overview.png)](https://github.com/bamidele-yetunde/Hotel-Cancellations-Analysis)
+
+End-to-end analysis of **119,390 bookings at two Portuguese hotels**, sized into three policy fixes worth **≈ €1.8M a year**.
+
+- **37%** of bookings are cancelled or never show: **€16.7M** of booked stays lost in 26 months
+- Portuguese group and offline travel-agent bookings are **22% of bookings but 45% of cancellations**
+- **99.4%** of "Non Refund" bookings cancel, so the flag marks tentative blocks, not deposits actually paid
+- 5-page Power BI dashboard on a star schema with **48 DAX measures** and an interactive overbooking what-if simulator
 
 ### [Why 97% of Olist customers never come back, and what actually drives 1-star reviews](https://github.com/bamidele-yetunde/olist-retention-delivery-analysis)
 `MySQL` · `Python (pandas)` · `Power BI` · `DAX` · `Excel`
