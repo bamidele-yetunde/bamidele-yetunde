@@ -11,6 +11,18 @@ Based in Lagos, Nigeria (GMT+1) · **Open to remote Data Analyst / BI Analyst ro
 
 ## ⭐ Featured projects
 
+### [Every health system cleared its elective backlog. The UK never did.](https://github.com/bamidele-yetunde/DataDNA_Health_System_Performance)
+`Power BI` · `Power Query` · `DAX` · `Python (pandas, NumPy, matplotlib)`
+
+[![Health system performance report](https://github.com/bamidele-yetunde/DataDNA_Health_System_Performance/raw/main/page1_executive_summary.png)](https://github.com/bamidele-yetunde/DataDNA_Health_System_Performance)
+
+My entry for the **DataDNA November 2026 challenge**: 32 countries and **212 regional health systems** from 2018 to 2024, written up as a board report.
+
+• Elective waits nearly doubled everywhere in 2021, but the UK was **still at 1.99× its 2019 wait in 2024** while no other country passed 1.67×  
+• The UK spends **13.7% less per person** than EU members and has **1.66× the EU vacancy rate**  
+• Staff burnout moves with vacancies (**r = 0.58**, or 0.73 within countries)  
+• 6 page Power BI report on a star schema with **76 DAX measures**, plus a Python version that matches **all 22 headline figures**
+
 ### [Why 37% of hotel bookings never arrive, and what it's worth fixing](https://github.com/bamidele-yetunde/Hotel-Cancellations-Analysis)
 `MySQL` · `Python (pandas, NumPy)` · `Power BI` · `Power Query` · `DAX` · `Excel`
 
